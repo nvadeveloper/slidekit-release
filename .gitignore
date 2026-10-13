@@ -1,0 +1,8 @@
+# Installers are attached to GitHub Releases, not committed: git refuses files over 100 MB.
+builds/
+*.dmg
+*.exe
+*.blockmap
+*.zip
+*.tar.gz
+.DS_Store
