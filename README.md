@@ -52,6 +52,7 @@ There are no automatic updates in the beta: download and install a new version t
 - Video and audio with captions; narration recorded in the app.
 - Ready-made blocks (tabs, accordion, process, flashcards), a scroll panel, HTML objects, formulas, icons and tables.
 - **Course transfer:** a `.story` course or the SCORM package (1.2 or 2004) published from one opens as a new Slidekit course — slides, layers, states, triggers, variables, questions, banks and the test, fonts and pictures. It runs on your computer, without AI.
+- **Software simulations:** record your work in any program — a screenshot before every click, typed text and key combinations — review the steps, and build a demonstration, a practice and a quiz that sends its score to the LMS. On a Mac, recording asks once for Screen Recording and Input Monitoring.
 - PowerPoint import and XLIFF translation.
 - Export to SCORM 1.2, SCORM 2004, cmi5, xAPI and a web page; a preview with a debug panel.
 - English and Russian interface (Settings → Interface language).
