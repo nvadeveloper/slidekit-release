@@ -1,6 +1,6 @@
 # Slidekit — beta
 
-Slidekit is a desktop editor for interactive, slide-based e-learning courses, with an AI assistant built in. Build slides with layers, states, triggers and variables, add quizzes and media, and export a SCORM 1.2, SCORM 2004, cmi5, xAPI or web package for your LMS.
+Slidekit is a desktop editor for interactive e-learning courses — slide courses and longreads — with an AI assistant built in. Build slides with layers, states, triggers and variables, or lessons of blocks that fit a phone; add quizzes and media, and export a SCORM 1.2, SCORM 2004, cmi5, xAPI or web package for your LMS.
 
 This repository holds only the installers and their notes. The source code is not published.
 
@@ -44,14 +44,16 @@ There are no automatic updates in the beta: download and install a new version t
 
 ## What is in the beta
 
-- **An AI assistant beside the slide:** courses from your documents, layouts in the course’s style, interactive exercises, triggers in plain words, quiz questions, narration scripts and translation. It runs through your own Claude Code or Codex, or your company’s OpenAI-compatible model.
+- **An AI assistant beside the slide and the longread:** courses from your documents, layouts in the course’s style, interactive exercises, triggers in plain words, quiz questions, narration scripts and translation; it edits slides and lessons on request. It runs through your own Claude Code or Codex, or your company’s OpenAI-compatible model.
+- **Longreads, the second course format:** lessons of blocks read from top to bottom that fit a phone — text, tables, pictures, video, tabs and accordions, a process, markers, questions and a test lesson, variables and conditions, light or dark pages. The AI agent writes one from a topic or from a document (DOCX, PDF, PPTX, HTML, text).
+- **Animation:** effects on their own ribbon tab, motion paths, «Copy animation», Lottie and Rive animations, and triggers when objects touch.
 - Slides with layers, object states, triggers with conditions, and variables.
 - Masters and layouts, scenes, and a course view of how slides lead to each other.
 - Questions: single choice, multiple response, true/false, drag and drop, matching, sequence, text and numeric entry, press-the-key and hotspots; question banks and draws, partial credit, points per choice.
 - Quizzes with a passing score, attempts and timers; results slides and certificates.
 - Video and audio with captions; narration recorded in the app.
 - Ready-made blocks (tabs, accordion, process, steps, slider, flashcards, markers on a picture, checklist, star rating) set up as a whole — number of items, colours, fonts, rounding — plus a scroll panel, HTML objects, formulas, icons and tables.
-- **Course transfer:** a `.story` course or the SCORM package (1.2 or 2004) published from one opens as a new Slidekit course — slides, layers, states, triggers, variables, questions, banks and the test, fonts and pictures. It runs on your computer, without AI.
+- **Course transfer:** a `.story` course or the SCORM package (1.2 or 2004) published from one opens as a new Slidekit course — slides, layers, states, triggers, variables, questions, banks and the test, fonts and pictures; a SCORM package of a page-style course opens as a longread. It runs on your computer, without AI.
 - **Software simulations:** record your work in any program — a screenshot before every click, typed text and key combinations — review the steps, and build a demonstration, a practice and a quiz that sends its score to the LMS — or step-by-step PDF instructions and an MP4 demonstration video. On a Mac, recording asks once for Screen Recording and Input Monitoring.
 - **Dialogue trainers:** branching conversations on a map — characters with faces (six ready-made characters with six expressions each), scores by criteria, a debrief at the end and every answer in the LMS report; the AI drafts one from a brief.
 - **Voice-over:** speak the slide notes with the system's voices offline, your company's model, Yandex SpeechKit or ElevenLabs (your own key); captions from the text or by speech recognition.
