@@ -1,0 +1,4 @@
+590b780f7eef7a986560cdcd9d6602ceca68988cf28549dc423853dc4f0fcc84  Slidekit-0.7.0-beta.4-ffmpeg-source.tar.gz
+74ee304b6e961d20a2c77f45ee742118fda3bf8e138585378a93dc2325c2f8a9  Slidekit-0.7.0-beta.4-mac-arm64.dmg
+24104201f7ecc663f229570e456e155df8e6be5e85769e375f7e9d68886abd52  Slidekit-0.7.0-beta.4-mac-x64.dmg
+7b48e6913343e4b25829e5bccefc00b5a1846f49e20ed398a2d4025b509190cb  Slidekit-0.7.0-beta.4-win-x64.exe
